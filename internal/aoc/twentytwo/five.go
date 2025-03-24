@@ -11,6 +11,7 @@ import (
 	"unicode"
 )
 
+// Solving: https://adventofcode.com/2022/day/5
 func Solve() {
 	scanner := scanInput()
 	var stacks [][]byte
